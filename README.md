@@ -1,2 +1,1 @@
-# Basic_programming
-This contains basics programming in java 
+# Shahid-s-repository
